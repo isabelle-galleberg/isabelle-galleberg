@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi, I'm Isabelle 👋
 
-#### I'm Isabelle and
+#### 
 - 👩‍💻 I’m a student pursuing a Master's degree in Computer Science at NTNU Trondheim
 
 [![Isabelle's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=isabelle-galleberg&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
