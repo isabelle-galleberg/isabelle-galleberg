@@ -1,7 +1,6 @@
 ### Hi, I'm Isabelle 👋
 
 - 👩‍💻 I am pursuing a Master's degree in Computer Science at NTNU Trondheim, with a specialization in Software Systems 
-- 🇵🇹 I am currently spending my fourth year of studies as an exchange student in Lisbon, Portugal 
 - 💻 Apart from my studies, I am a part of NTNUI Sprint, which is the IT committee of NTNUI, responsible for developing their websites and technological solutions 
 		
 
